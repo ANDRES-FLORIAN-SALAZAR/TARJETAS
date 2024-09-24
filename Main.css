@@ -1,0 +1,16 @@
+.Tarjeta1{
+    width: 150%;
+    height: 150%;
+    margin: center;
+    text-align: center;
+    filter:drop-shadow(10px 0px 5px rgba(156, 2, 15, 0.933));
+    background:fixed;
+    
+}
+img{
+    width: 800px;
+    border-width: 15px;
+    border-color:#000000;
+    border-style:inset
+}
+

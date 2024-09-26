@@ -64,6 +64,14 @@ h4{
     font-style: normal;
 }
 
+img.derecha{ 
+    width: 800px;
+    border-width: 15px;
+    border-color:#000000;
+    border-style:inset;
+    float: right;
+}
+
 h2{
     vertical-align:text-bottom;
     text-align: right;
